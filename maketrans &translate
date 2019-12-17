@@ -1,0 +1,6 @@
+s1="abcde";
+s2="12345";
+s3="pyhton sample string";
+x=make.trans(s1,s2)
+y=s3.translate(x)
+print(y)
